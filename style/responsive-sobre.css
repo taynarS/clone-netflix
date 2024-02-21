@@ -1,0 +1,18 @@
+@media screen and (max-width: 700px) {
+  body {
+    background-color: #00cae3;
+  }
+}
+.container {
+  margin-left: 0px;
+  margin-top: 0px;
+  text-align: right;
+  font-size: 10%;
+  font-family: "Arial";
+}
+
+.text {
+  text-align: justify;
+  box-sizing: border-box;
+  font-size: 30px;
+}
